@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practice-project/static/css/main.d504ced0.css",
+    "main.js": "/practice-project/static/js/main.dbcbddbb.js",
+    "static/js/453.1784d781.chunk.js": "/practice-project/static/js/453.1784d781.chunk.js",
+    "static/media/campus video.mp4": "/practice-project/static/media/campus video.bfa0297419803655bcb8.mp4",
+    "index.html": "/practice-project/index.html",
+    "main.d504ced0.css.map": "/practice-project/static/css/main.d504ced0.css.map",
+    "main.dbcbddbb.js.map": "/practice-project/static/js/main.dbcbddbb.js.map",
+    "453.1784d781.chunk.js.map": "/practice-project/static/js/453.1784d781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d504ced0.css",
+    "static/js/main.dbcbddbb.js"
+  ]
+}
